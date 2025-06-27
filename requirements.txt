@@ -1,0 +1,6 @@
+langchain_groq
+langchain-ollama
+langchain_core
+jinja2
+python-dotenv
+#ipykernel
