@@ -2,5 +2,6 @@ langchain_groq
 langchain-ollama
 langchain_core
 jinja2
+sentence_transformers
 python-dotenv
 #ipykernel
